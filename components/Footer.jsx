@@ -28,19 +28,19 @@ export const Footer = () => (
         <ButtonGroup variant="ghost">
           <IconButton
             as="a"
-            href="https://github.com/abhijhacodes"
+            href="https://github.com/vsaravanan"
             aria-label="GitHub"
             icon={<FaGithub fontSize="1.25rem" />}
           />
           <IconButton
             as="a"
-            href="https://abhijha.live/"
+            href="https://saravanjs.com/"
             aria-label="Website"
             icon={<FaGlobe fontSize="1.25rem" />}
           />
           <IconButton
             as="a"
-            href="https://www.linkedin.com/in/abhishek-jha-3867b4205/"
+            href="https://www.linkedin.com/in/viswanathan-saravanan/"
             aria-label="Linkedin"
             icon={<FaLinkedin fontSize="1.25rem" />}
           />

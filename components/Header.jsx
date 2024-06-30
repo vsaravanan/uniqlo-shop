@@ -93,7 +93,7 @@ export const Header = () => {
                 fontSize={["md", "lg", "xl"]}
                 color={useColorModeValue("blue.600", "blue.200")}
               >
-                Redux Shopping
+                UNIQLO Shop
               </Text>
             </HStack>
             <HStack
@@ -135,7 +135,7 @@ export const Header = () => {
             />
             <IconButton
               as="a"
-              href="https://github.com/abhijhacodes/next-redux-shopping-cart"
+              href="https://github.com/vsaravanan/uniqlo-shop"
               aria-label="GitHub"
               icon={<FaGithub fontSize="1.8rem" />}
             />
